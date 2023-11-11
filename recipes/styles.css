@@ -1,0 +1,102 @@
+.lists{
+    color: rgb(225,223,182);
+    background-color: rgb(50, 31, 26);
+    font-size: 30px;
+    font-weight: 800;
+    height:fit-content;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 25px;
+    z-index: 2;
+    position:relative;
+}
+
+.text{
+    color: rgb(0, 0, 0);
+    background-color: rgb(176, 140, 78);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 200;
+    height:fit-content;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 25px;
+    z-index: 2;
+    position:relative;
+}
+
+.bullets{
+    color: rgb(0, 0, 0);
+    background-color: rgb(176, 140, 78);
+    text-align: left;
+    font-size: 18px;
+    font-weight: 200;
+    height:fit-content;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 25px;
+    padding-left: 30px;
+    z-index: 2;
+    position:relative;
+}
+
+.title{
+    font-family: "Brush Script MT", "Geneva", "Tahoma", sans-serif;
+    font-size: 75px;
+    text-align: center;
+    color: darkolivegreen;
+    margin: 0%;
+    z-index: 2;
+    position:relative;
+}
+.title2{
+    font-family: "Brush Script MT", "Geneva", "Tahoma", sans-serif;
+    font-size: 50px;
+    text-align: left;
+    color: darkolivegreen;
+    margin: 0%;
+    z-index: 2;
+    position:relative;
+}
+
+div.fill {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+img.fit {
+    min-width: 100%;
+    min-height: 100%;
+    opacity: .3;
+}
+.image{
+    opacity: 1.0;
+    border-radius: 25px;
+    z-index: 2;
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+body{
+    background-color: bisque;
+}
+
+.back{
+    color: rgb(0, 0, 0);
+    background-color: rgb(100, 123, 47);
+    text-align: left;
+    font-size: 18px;
+    font-weight: 200;
+    height:fit-content;
+    width: fit-content;
+    padding: 12px;
+    border-radius: 25px;
+    z-index: 2;
+    position:relative;
+}
